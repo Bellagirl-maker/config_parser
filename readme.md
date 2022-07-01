@@ -12,6 +12,11 @@ $ ruby parser.rb config server_load_alarm
 3. Third argument 'config' refers to the path/name of the config file you wish to pass in to the program.
 4. Fourth argument refers to the config parameter whose value you wish to assess.
 
+## Example
+When we run:
+$ ruby parser.rb config host
+We will get the following output in the terminal:
+![Terminal Output](/terminal.JPG)
 
 ## Notes
 1. If the user queries for a value of a config_parameter that did not exist in the config file, then the program will inform the user of this and exit.
