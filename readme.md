@@ -13,9 +13,11 @@ $ ruby parser.rb config server_load_alarm
 4. Fourth argument refers to the config parameter whose value you wish to assess.
 
 ## Example
-When we run:
-$ ruby parser.rb config host
-We will get the following output in the terminal:
+When we run:  
+
+$ ruby parser.rb config host  
+We will get the following output in the terminal:  
+
 ![Terminal Output](/terminal.JPG)
 
 ## Notes
