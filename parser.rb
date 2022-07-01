@@ -40,8 +40,8 @@ end
 
 # Displays chosen value and it's type to terminal
 def display_output(config, config_parameter)
-    puts "Value of specified key: " + (config["#{config_parameter}"]).to_s
-    puts "Data Type of specified key: " + (config["#{config_parameter}"].class).to_s
+    puts "Value of config parameter: " + (config["#{config_parameter}"]).to_s
+    puts "Data Type of config parameter: " + (config["#{config_parameter}"].class).to_s
 end
 
 # Requires config file and desired config parameter to be passed to program

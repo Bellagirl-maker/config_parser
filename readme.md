@@ -10,7 +10,7 @@ $ ruby parser.rb config server_load_alarm
 1. First argument 'ruby' refers to invoking the ruby interpreter.
 2. Second argument 'parser.rb' refers to the path/name of the program to be run.
 3. Third argument 'config' refers to the path/name of the config file you wish to pass in to the program.
-4. Fourth argument refers to the config parameter whose value you wish to assess.
+4. Fourth argument refers to the config parameter(key in hash) whose value you wish to assess.
 
 ## Example
 When we run:  
