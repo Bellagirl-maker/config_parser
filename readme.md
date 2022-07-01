@@ -1,5 +1,5 @@
 # Config File Parser
-This program will parse a config file and store it as a ruby hash. The desired value of a config_parameter can be accessed as follows =>
+This program will parse a config file and store it as a ruby hash. The desired value of a config_parameter can be assessed as follows =>
 
 ## Using this program
 In order to use this program, run the parser in your terminal using the following structure of command:
